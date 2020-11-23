@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-star-game/static/css/main.440be67f.chunk.css",
+    "main.js": "/react-star-game/static/js/main.e28082f9.chunk.js",
+    "main.js.map": "/react-star-game/static/js/main.e28082f9.chunk.js.map",
+    "runtime-main.js": "/react-star-game/static/js/runtime-main.584563e0.js",
+    "runtime-main.js.map": "/react-star-game/static/js/runtime-main.584563e0.js.map",
+    "static/js/2.13b6e390.chunk.js": "/react-star-game/static/js/2.13b6e390.chunk.js",
+    "static/js/2.13b6e390.chunk.js.map": "/react-star-game/static/js/2.13b6e390.chunk.js.map",
+    "index.html": "/react-star-game/index.html",
+    "static/css/main.440be67f.chunk.css.map": "/react-star-game/static/css/main.440be67f.chunk.css.map",
+    "static/js/2.13b6e390.chunk.js.LICENSE.txt": "/react-star-game/static/js/2.13b6e390.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.584563e0.js",
+    "static/js/2.13b6e390.chunk.js",
+    "static/css/main.440be67f.chunk.css",
+    "static/js/main.e28082f9.chunk.js"
+  ]
+}
