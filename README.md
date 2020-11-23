@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+### inspired from : https://app.pluralsight.com/course-player?clipId=b407cd7e-5b68-4bca-9762-914e502aac2f
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
